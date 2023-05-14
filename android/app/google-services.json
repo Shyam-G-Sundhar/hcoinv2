@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108562791971",
+    "project_id": "hcoinv2",
+    "storage_bucket": "hcoinv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108562791971:android:43dca5886e0899b69c3b96",
+        "android_client_info": {
+          "package_name": "com.example.hcoinv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108562791971-86dv8caqsst3ctfb4lb2kb7u0l91k6ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hcoinv2",
+            "certificate_hash": "2fbd6d45042df703277a0326e33ead2a53501282"
+          }
+        },
+        {
+          "client_id": "108562791971-ku7hoojdjf1neoadnv3ock3kul49hlke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHoV33hM6QhEVO_H1NPjr6nPJl8ZbCwNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108562791971-ku7hoojdjf1neoadnv3ock3kul49hlke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
